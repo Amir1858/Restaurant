@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Block-1 */
+
+.nav_m {
+    width: 120px;
+    height: 100vh;
+    background: #333333;
+}
+
+.food_mm {
+    margin-left: 20px;
+    padding-top: 30px;
+}
+
+.burger_m {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.ytt {
+    margin-top: 610px;
+    margin-left: 40px;
+}
+
+/* Menu */
+
+.best {
+    background-image: url('../img/best-m.png');
+    width: 100%;
+    height: 97.3vh;
+    background-repeat: no-repeat;
+    padding-top: 25px;
+}
+
+.blck_1 {
+    display: flex;
+}
+
+.menu_m b {
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    color: white;
+    margin-left: 40px;
+}
+
+.menu_m {
+    padding-left: 1220px;
+}
+
+.bron {
+    width: 145px;
+    height: 42px;
+    background: #B59571;
+    border: none;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    color: white;
+}
+
+.href {
+    text-decoration: none;
+}
+
+/* /Menu */
+
+.restaurant {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 54px;
+    color: white;
+    margin-top: 600px;
+    margin-left: 250px;
+}
+
+/* /Block-1 */
+
+/* Block-2 */
+.blck_2 {
+    width: 100%;
+    height: 200vh;
+}
+
+.Food1-m {
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.line-1 {
+    width: 60px;
+    height: 3px;
+    background: #B59571;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.dv-1 {
+    display: flex;
+    margin-top: 120px;
+    margin-left: 250px;
+}
+
+.exxe {
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    color: #333333;
+}
+
+.relo {
+    display: flex;
+    margin-top: 80px;
+}
+
+.texts_m {
+    width: 550px;
+    height: 266px;
+    font-weight: 200;
+    font-size: 18px;
+    color: #333333;
+    margin-left: 175px;
+}
+
+.texts_m1 {
+    width: 550px;
+    height: 266px;
+    font-weight: 200;
+    font-size: 18px;
+    color: #333333;
+    margin-left: 180px;
+}
+
+#texts_m {
+    width: 550px;
+    height: 266px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #333333;
+    margin-left: 144px;
+}
+
+#menu {
+    margin-left: 60px;
+}
+
+#exxe {
+    margin-left: 10px;
+}
+
+.border1-m {
+    width: 416px;
+    height: 240px;
+    border: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.stoet-mm {
+    width: 336px;
+    height: 240px;
+}
+
+.st-mm {
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.ln {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.img-mmm {
+    display: flex;
+}
+
+.js-m {
+    margin-left: 50px;
+}
+
+.img-mmm {
+    justify-content: center;
+}
+
+.btnm {
+    width: 163px;
+    height: 58px;
+    background: #B59571;
+    border: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+
+.btmm {
+    width: 200px;
+    height: 58px;
+    border: 1px solid rgba(51, 51, 51, 0.2);
+    margin-left: 20px;
+    background: white;
+    font-weight: 700;
+    font-size: 20px;
+    color: black;
+}
+
+.fl {
+    display: flex;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+
+.map-m {
+    display: flex;
+    margin-top: 50px;
+}
+
+.two-m {
+    font-weight: 700;
+    font-size: 64px;    
+    color: #B59571;
+}
+
+.min-m {
+    font-weight: 700;
+    font-size: 32px;
+    color: #B59571;
+}
+
+.sank {
+    font-weight: 400;
+    font-size: 18px;
+    color: #333333;
+}
+
+.soat {
+    margin-left: 50px;
+    display: flex;
+    margin-left: 200px;
+}
+
+.clock-1 {
+    margin-top: 100px;
+}
+
+.clock-2 {
+    margin-top: 50px;
+}
+
+.minmax {
+    margin-top: 50px;
+}
+
+.mmm {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.ttmm {
+    margin-left: 50px;
+}
+
+.box-m {
+    width: 400px;
+    height: 300px;
+    background: #5b5b5b;
+    margin-top: 25px;
+    position: absolute;
+    left: 850px;
+}
+
+.snake {
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+}
+
+
+.mbp {
+    display: flex;
+}
+
+.mbp1 {
+    display: flex;
+    margin-top: 10px;
+}
+
+.ppp {
+    margin-top: 30px;
+    margin-left: 30px;
+    color: white;
+}
+
+.src {
+    margin-left: 10px;
+}
+
+.roboto {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.bron {
+    width: 145px;
+    height: 42px;
+    background-color: #B59571;
+}
+
+.savol {
+    width: 145px;
+    height: 42px;
+    background-color: #ffffff00;
+    border: 1px solid white;
+    color: white;
+}
+
+.footer-m {
+    width: 100%;
+    height: 120px;
+    background-color: #333333;
+    margin-top: 90px;
+    display: flex;
+}
+
+.foodl {
+    margin-left: 400px;
+    padding-top: 35px;
+}
+
+.textk {
+    margin-top: 50px;
+    padding-left: 370px;
+    color: white;
+}
+
+.de {
+    color: white;
+    margin-top: 50px;
+    padding-left: 300px;
+}
+
+/* /Block-2 */
